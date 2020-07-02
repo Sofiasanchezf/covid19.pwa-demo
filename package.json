@@ -1,0 +1,15 @@
+{
+  "name": "covid-pwa",
+  "version": "1.0.0",
+  "description": "pwa demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwa",
+    "covid19"
+  ],
+  "author": "sofia sanchez",
+  "license": "ISC"
+}
